@@ -3,7 +3,7 @@
 A simple rock paper scissors game written in C++.
 
 ## Technologies used
-This calculator was assembled with the following technologies:
+This game was assembled with the following technologies:
 * GCC 9.2.0 
 
 * Code::Blocks 20.03 
