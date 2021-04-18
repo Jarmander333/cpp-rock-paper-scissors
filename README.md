@@ -21,7 +21,8 @@ Then when the program prompts you to enter an option you can enter one of the fo
 2
 3
 ```
-*If you enter anything else other than 1, 2, or 3, you will lose.*
+
+**`If you enter anything else other than 1, 2, or 3, you will lose automatically lose.  This is a bug.`**
 
 #### What it should look like (or at least close enough to it)
 
