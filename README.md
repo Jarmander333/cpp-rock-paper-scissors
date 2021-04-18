@@ -5,13 +5,13 @@ A simple rock paper scissors game written in C++.
 ## Technologies used
 This game was assembled with the following technologies:
 * GCC 9.2.0 
-
-* Code::Blocks 20.03 
-http://www.codeblocks.org/
+* Sublime Text (UNLICENSED)
 
 ## Folder Structure
 
-This simple rock paper scissors game runs on Windows (7-10, not sure about any earlier) through CMD. Just double-click "simplerps.exe" to launch it. 
+This simple rock paper scissors game runs on Ubuntu 14.04-21.04 through Terminal. Just run the command "./a.out" to launch it. 
+
+NOTE: If it doesn't launch, or says something like, "This is not an executable script/file" run the command "sudo chmod +x a.out" to make it an executable.  
 
 ## Explanation on how to use it
 
